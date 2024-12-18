@@ -1,0 +1,50 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background: rgb(2,0,36);
+    background: linear-gradient(180deg, #ddc8b3f5 0%, #6D4531 100%);;
+    color: white;
+}
+nav{
+    background: #ffffff;
+    background: linear-gradient(90deg, #ffffff 0%, #ddc8b3f5 100%);
+    font-weight:bold;
+    color: #6D4531;
+}
+p{
+    font-size: x-large;
+}
+h1{
+    font-weight:bolder;
+}
+h2{
+    font-weight:bold;
+}
+.contacto{
+    background: #6D4531;
+}
+.capsula1{
+    font-weight: bold;
+}
+.capsula2{
+    font-weight: lighter;
+}
+.btn-primary{
+    color: #6D4531;
+    border-color: #ddc8b3f5;
+}
+footer{
+    background: #ffffff;
+    background: linear-gradient(90deg, #ffffff 0%, #ddc8b3f5 100%);
+    color: #6D4531;
+}
+.seguime{
+    font-size: large;
+    font-weight: bold;
+}
+.copy{
+    font-size:medium;
+
+}
+a{
+    color: #6D4531;
+}
